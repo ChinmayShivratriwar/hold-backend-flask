@@ -1,2 +1,5 @@
-# hold-backend
-HOLD – Hate Speech &amp; Objectionable Language Detection 
+# HOLD – Hate Speech &amp; Objectionable Language Detection 
+This is the backend service, comprising mostly, Tensorflow and backend logic
+
+Frontend repo - 
+
